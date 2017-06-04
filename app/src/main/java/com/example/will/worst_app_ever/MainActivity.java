@@ -1,4 +1,4 @@
-package com.example.will.tryingextrahard;
+package com.example.will.worst_app_ever;
 
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
-        FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
+       FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {

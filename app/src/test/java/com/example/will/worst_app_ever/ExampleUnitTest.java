@@ -1,4 +1,4 @@
-package com.example.will.tryingextrahard;
+package com.example.will.worst_app_ever;
 
 import org.junit.Test;
 

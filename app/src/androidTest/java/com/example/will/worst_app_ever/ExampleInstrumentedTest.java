@@ -1,4 +1,4 @@
-package com.example.will.tryingextrahard;
+package com.example.will.worst_app_ever;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.will.tryingextrahard", appContext.getPackageName());
+        assertEquals("com.example.will.worst_app_ever", appContext.getPackageName());
     }
 }
